@@ -9,3 +9,5 @@
 ### Date Filter: Includes a date filter with options for all periods or specific months (Jan, Jul, Aug, Sep, Oct 2022), allowing dynamic data exploration.
 
 [Link to the Dashboard](https://docs.google.com/spreadsheets/d/1jHPF7cXZ9rJk2RPJDIRTj2rG-HafrQsw/edit?usp=drive_link&ouid=101465908741303609032&rtpof=true&sd=true)
+
+### SKILLS DEMONSTRATED : EXCEL(PIVOT TABLE) , MARKETING CAMPAIGN KNOWLEDGE , DATA VISUALIZATION
